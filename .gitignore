@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Persistence.Database/bin/Debug/netcoreapp3.1
+/Consola/bin/Debug/netcoreapp3.1
+/Consola/obj/Debug/netcoreapp3.1
+/Consola/obj
+/Persistence.Database/obj
+/Services/obj
+/Services/bin/Debug/netcoreapp3.1
